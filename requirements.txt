@@ -1,0 +1,39 @@
+# Slack SDK
+slack-bolt==1.18.0
+slack-sdk==3.26.1
+
+# Gmail API
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.111.0
+
+# OpenAI
+openai==1.6.1
+
+# Database
+sqlalchemy==2.0.25
+sqlite3
+
+# Web Framework
+fastapi==0.108.0
+uvicorn==0.25.0
+
+# Data Processing
+pandas==2.1.4
+python-datautil==2.8.2
+
+# Environment Management
+python-dotenv==1.0.0
+
+# HTTP requests
+requests==2.31.0
+httpx==0.26.0
+
+# Email Parsing
+email-validator==2.1.0
+beautifulsoup4==4.12.2
+
+# Utilities
+pydantic==2.5.2
+typing-extensions==4.9.0
